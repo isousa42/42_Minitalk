@@ -6,5 +6,5 @@
 </br>
 <p>In this project there will be two executables: the client and the server. The objective is to find a way of sending a string, from client to server, using only two UNIX signals: SIGUSER1 and SIGUSER2</p>
 <br>
-<p> MINITALK (MANDATORY) OK ✔️ MINITALK (BONSU) OK ✔️</p>
+<p> MINITALK (MANDATORY) OK ✔️ MINITALK (BONUS) OK ✔️</p>
 <p> Moulinette Grade: 125% </p>
